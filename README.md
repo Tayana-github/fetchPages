@@ -1,4 +1,4 @@
-# fetch_Pages_From_Json
+# fetch_pages_from_json
 
 A Flutter package that dynamically renders pages from JSON data using `json_dynamic_widget`. It efficiently fetches pages from a server, caches them with `SharedPreferences`, and includes a versioning mechanism to update pages only when needed.
 
