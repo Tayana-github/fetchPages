@@ -1,4 +1,6 @@
-1.0.0
+### 1.3.0
+
+
 Introduced a Flutter package that leverages json_dynamic_widget to dynamically render pages from JSON data. The package fetches all pages from a server when the app launches and provides a function to get a specific page by its name while caching the fetched data using SharedPreferences.
 Included required API response format for consistency.
 Added RenderPage widget to dynamically render JSON data with support for loading indicators and error handling.
