@@ -16,3 +16,7 @@ Fixed issue in fetching pages from the cache.
 Allowed x.x.x versioning format in versionConfig.json.
 Fixed issue in fetching version-mapping on some servers.
 Addressed an issue where pages failed to fetch when no local versioning was available.
+
+### 1.3.1
+
+updated sdk version 
